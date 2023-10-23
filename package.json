@@ -1,0 +1,22 @@
+{
+  "name": "3.3-first-node-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mha47/3.3-first-node-application.git"
+  },
+  "author": "sharir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mha47/3.3-first-node-application/issues"
+  },
+  "homepage": "https://github.com/Mha47/3.3-first-node-application#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
